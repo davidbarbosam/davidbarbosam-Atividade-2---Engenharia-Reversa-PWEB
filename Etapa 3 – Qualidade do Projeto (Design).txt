@@ -1,0 +1,7 @@
+Etapa 3 – Qualidade do Projeto (Design)
+Foco das funções (Coesão):
+As ferramentas de fazer pedido são bem focadas no que precisam fazer, sem misturar assuntos que não têm nada a ver.
+Conexão entre as partes (Acoplamento):
+Existe uma dependência equilibrada entre a parte visual e a lógica do sistema — uma precisa da outra, mas não são "coladas" de um jeito que estrague tudo se precisar mudar algo.
+Divisão de pastas e códigos:
+As responsabilidades são bem divididas: existe um lugar para cuidar dos produtos, outro para os pedidos e um específico para o carrinho.
