@@ -1,0 +1,7 @@
+Etapa 2 – Olhando a Estrutura (Arquitetura)
+Modelo de funcionamento:
+Usa o modelo padrão de Web (Cliente-Servidor), onde o navegador do cliente conversa com o servidor da loja.
+Organização do sistema:
+Tudo indica que ele é dividido em partes: a "cara" do site (Frontend), a lógica que faz tudo funcionar (Backend) e onde ficam guardadas as informações (Banco de Dados).
+Divisão de tarefas:
+O sistema separa bem o que é visual, o que é regra de venda e o que é apenas armazenamento de dados.
