@@ -1,7 +1,7 @@
 Comparativo: Real vs. Didático
-Critério	Sistema Tropykaly		Modelo de Aula
-Arquitetura	Profissional e robusta		Básica/Simplificada
-Coesão	      	Focada em cada função		Funções misturadas
-Acoplamento	Independência entre partes	Partes muito dependentes
-Organização	Estrutura clara			Estrutura genérica
-Flexibilidade	Fácil de adaptar		Difícil de mudar
+Critério	          Sistema Tropykaly		            Modelo de Aula
+Arquitetura	        Profissional e robusta		      Básica/Simplificada
+Coesão	      	    Focada em cada função		        Funções misturadas
+Acoplamento	        Independência entre partes	    Partes muito dependentes
+Organização	        Estrutura clara			          Estrutura genérica
+Flexibilidade	      Fácil de adaptar		          Difícil de mudar
