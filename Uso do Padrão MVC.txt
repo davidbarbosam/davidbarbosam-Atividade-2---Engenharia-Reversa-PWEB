@@ -1,0 +1,5 @@
+Uso do Padrão MVC:
+Para organizar melhor o código, a ideia é dividir o sistema em três partes:
+Model (Dados): Onde ficam as informações de Produtos, Pedidos e as Categorias.
+View (Visual): É a Interface Web, ou seja, a parte que o cliente vê e interage.
+Controller (Meio-campo): Onde entra a lógica para processar as ações, como o Controller de Pedidos e o Controller de Produtos.
