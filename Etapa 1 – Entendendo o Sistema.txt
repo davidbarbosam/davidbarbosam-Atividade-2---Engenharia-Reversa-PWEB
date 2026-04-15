@@ -1,0 +1,9 @@
+Etapa 1 – Entendendo o Sistema
+Para que serve:
+O site foi feito para os clientes comprarem pizzas, lanches e bebidas direto pela internet, sem complicação.
+O que ele faz:
+Dá para navegar pelos produtos, filtrar por categorias, montar o carrinho e fechar a compra. Também mostra como falar com a loja e o endereço deles.
+Caminho do usuário:
+A pessoa entra no site, dá uma olhada no cardápio, escolhe o que quer comer, coloca no carrinho e finaliza o pedido.
+Como as coisas estão organizadas:
+O cardápio é dividido em grupos: Pizzas, Lanches, Bebidas e Combos.
